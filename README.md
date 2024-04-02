@@ -1,1 +1,1 @@
-# detect-and-count-motor
+# detect and count motor using YoloV7
